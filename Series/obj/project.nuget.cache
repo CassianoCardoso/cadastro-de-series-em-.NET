@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YgIkKIZ0M+MLyAKNHC+3isXmB7J3NnGEOZoXD9K6m6ZegKlFewDa+rK8SnTaATAoxjx+TyCF3ODDPeA9ay+ZVA==",
+  "success": true,
+  "projectFilePath": "E:\\CURSO C#  OO\\DIO\\Series\\Series\\Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cassiano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+E:\CURSO C#  OO\DIO\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+E:\CURSO C#  OO\DIO\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
